@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">Etar Al Masharee logo mark</title>
+  <desc id="desc">A premium emerald and gold architectural logo mark inspired by the Etar Al Masharee identity.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#F5D98F"/>
+      <stop offset="0.48" stop-color="#C9A15A"/>
+      <stop offset="1" stop-color="#8B6524"/>
+    </linearGradient>
+    <linearGradient id="emerald" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0F4B3B"/>
+      <stop offset="1" stop-color="#06271F"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#0D3B2E" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="900" height="900" fill="none"/>
+  <g filter="url(#shadow)">
+    <path d="M310 522 V238 C310 150 372 92 450 92 C528 92 590 150 590 238 V522" fill="none" stroke="url(#gold)" stroke-width="28" stroke-linecap="round"/>
+    <path d="M272 590 L310 550 V292 L358 246 V590 Z" fill="url(#emerald)"/>
+    <path d="M420 590 V200 L476 146 V590 Z" fill="url(#emerald)"/>
+    <path d="M535 590 V315 C535 285 558 268 590 276 C620 284 638 309 638 344 V590 Z" fill="url(#emerald)"/>
+    <path d="M638 590 V302 L678 342 V590 Z" fill="url(#emerald)"/>
+    <path d="M260 590 H686" stroke="url(#emerald)" stroke-width="28" stroke-linecap="round"/>
+    <rect x="645" y="620" width="42" height="42" transform="rotate(45 666 641)" fill="url(#gold)"/>
+  </g>
+  <text x="450" y="728" text-anchor="middle" direction="rtl" fill="#0D3B2E" font-family="Noto Naskh Arabic, Tahoma, Arial, sans-serif" font-size="70" font-weight="700">&#1573;&#1591;&#1575;&#1585; &#1575;&#1604;&#1605;&#1588;&#1575;&#1585;&#1610;&#1593;</text>
+  <line x1="205" y1="775" x2="380" y2="775" stroke="#C9A15A" stroke-width="5"/>
+  <rect x="436" y="756" width="28" height="28" transform="rotate(45 450 770)" fill="#C9A15A"/>
+  <line x1="520" y1="775" x2="695" y2="775" stroke="#C9A15A" stroke-width="5"/>
+  <text x="450" y="834" text-anchor="middle" fill="#1A2922" font-family="Cinzel, Optima, Georgia, serif" font-size="48" letter-spacing="7">ETAR AL MASHAREE</text>
+</svg>

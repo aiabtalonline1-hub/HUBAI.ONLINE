@@ -36,7 +36,7 @@
     <path d="M98 274 V122 A82 82 0 0 1 262 122 V274" fill="none" stroke="url(#gold)" stroke-width="16" stroke-linecap="round"/>
     <path d="M142 270 V150 L175 118 V270" fill="#FAF9F6"/>
     <path d="M210 270 V105 L243 73 V270" fill="#FAF9F6"/>
-    <text x="180" y="323" text-anchor="middle" fill="#C9A15A" font-family="Arial, sans-serif" font-size="34" direction="rtl">%7'1 'DE4'1J9</text>
+    <text x="180" y="323" text-anchor="middle" fill="#C9A15A" font-family="Arial, sans-serif" font-size="34" direction="rtl">&#1573;&#1591;&#1575;&#1585; &#1575;&#1604;&#1605;&#1588;&#1575;&#1585;&#1610;&#1593;</text>
   </g>
 
   <g transform="translate(620 383)">
@@ -65,13 +65,13 @@
 
   <g transform="translate(620 640)">
     <text x="0" y="0" fill="#1A2922" font-family="Arial, sans-serif" font-size="28" font-weight="700">Typography</text>
-    <text x="0" y="70" fill="#0D3B2E" font-family="Arial, sans-serif" font-size="46" font-weight="700" direction="rtl">%7'1 H'6- D'3*+E'1 "EF</text>
+    <text x="0" y="70" fill="#0D3B2E" font-family="Arial, sans-serif" font-size="46" font-weight="700" direction="rtl">A clear frame for secure investment</text>
     <text x="0" y="128" fill="#1A2922" font-family="Cinzel, Optima, Georgia, serif" font-size="38" letter-spacing="3">ARCHITECTURAL TRUST</text>
     <text x="0" y="184" fill="#1A2922" font-family="Arial, sans-serif" font-size="24">Calm layouts, generous spacing, precise gold accents, and a deep emerald foundation.</text>
   </g>
 
   <g transform="translate(170 805)">
-    <text x="0" y="0" fill="#C9A15A" font-family="Arial, sans-serif" font-size="24" font-weight="700" direction="rtl">F8'E (51J</text>
-    <text x="0" y="44" fill="#1A2922" font-family="Arial, sans-serif" font-size="24" direction="rtl">BH3 E9E'1J .7H7 0G(J) /BJB) E3'-'* C1JEJ) H-6H1 E$33J A'.1.</text>
+    <text x="0" y="0" fill="#C9A15A" font-family="Arial, sans-serif" font-size="24" font-weight="700">Visual system</text>
+    <text x="0" y="44" fill="#1A2922" font-family="Arial, sans-serif" font-size="24">Architectural arches, precise gold lines, premium cream space, and a confident institutional tone.</text>
   </g>
 </svg>
